@@ -1,4 +1,4 @@
-# Stable Diffusion web UI
+# Stable Diffusion web UI (RealAGI Flavored)
 A web interface for Stable Diffusion, implemented using Gradio library.
 
 ![](screenshot.png)
